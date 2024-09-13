@@ -1,0 +1,13 @@
+[
+   {"bname":"HTML", "cost":"500"},
+   {"bname":"CSS", "cost":"400"},
+   {"bname":"Bootstrap", "cost":"250"},
+   {"bname":"Javascirpt", "cost":"550"},
+   {"bname":"API", "cost":"600"},
+   {"bname":"React js", "cost":"300"},
+   {"bname":"JSON", "cost":"200"},
+   {"bname":"Node js", "cost":"150"},
+   {"bname":"PHP", "cost":"350"},
+   {"bname":"MySQL", "cost":"800"},
+   {"bname":"JAVA", "cost":"750"}
+]
